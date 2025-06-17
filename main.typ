@@ -28,6 +28,8 @@
   )
 }
 
+// made a change
+
 #let images = (
   photo(img1),
   photo(img2),
